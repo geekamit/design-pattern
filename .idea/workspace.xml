@@ -1,7 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="69a5368b-c092-4ee3-b447-7ebae950e248" name="Default" comment="" />
+    <list default="true" id="69a5368b-c092-4ee3-b447-7ebae950e248" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 1/No Work Files.rtf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 10/src/com/scispike/observer/client/ObserverThermometerClient.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 10/src/com/scispike/observer/client/PollingThermometerClient.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 10/src/com/scispike/observer/library/Driver.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 10/src/com/scispike/observer/library/Observable.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 10/src/com/scispike/observer/library/Observer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 10/src/com/scispike/observer/library/Setup.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 10/src/com/scispike/observer/library/Thermometer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 11/src/com/scispike/command/simple/Demo.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 11/src/com/scispike/command/simple/Function.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 12/src/com/scispike/templatemethod/BasicRecipeJ2D.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 12/src/com/scispike/templatemethod/Game.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 12/src/com/scispike/templatemethod/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 13/src/com/inferdata/strategy/Job.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 13/src/com/inferdata/strategy/JobPriorityPrinterQueue.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 13/src/com/inferdata/strategy/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 13/src/com/inferdata/strategy/Printer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 13/src/com/inferdata/strategy/PrinterQueue.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 13/src/com/inferdata/strategy/SimpleFIFOPrinterQueue.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 13/src/com/inferdata/strategy/User.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 14/No Work Files.rtf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 2/No Work Files.rtf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 3/src/com/scispike/composite/Adder.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 3/src/com/scispike/composite/BinaryExpression.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 3/src/com/scispike/composite/Constant.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 3/src/com/scispike/composite/Divider.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 3/src/com/scispike/composite/Expression.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 3/src/com/scispike/composite/Multiplier.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 3/src/com/scispike/composite/Subtracter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 3/src/com/scispike/composite/test/CompositeTest.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 4/src/com/scispike/proxy/BusinessObject.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 4/src/com/scispike/proxy/BusinessObjectImplementation.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 4/src/com/scispike/proxy/BusinessObjectProxy.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 4/src/com/scispike/proxy/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 5/adapter/.classpath" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 5/adapter/.project" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 5/adapter/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 5/adapter/.settings/org.eclipse.m2e.core.prefs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 5/adapter/log4j.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 5/adapter/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 5/adapter/src/main/java/com/scispike/adapter/ApacheCommonsLogAdapter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 5/adapter/src/main/java/com/scispike/adapter/Logger.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 5/adapter/src/main/java/com/scispike/adapter/LoggerImpl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 5/adapter/src/main/java/com/scispike/adapter/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 5/adapter/target/classes/com/scispike/adapter/ApacheCommonsLogAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 5/adapter/target/classes/com/scispike/adapter/Logger.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 5/adapter/target/classes/com/scispike/adapter/LoggerImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 5/adapter/target/classes/com/scispike/adapter/Main.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 6/src/com/scispike/decorator/BorderDecorator.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 6/src/com/scispike/decorator/Decorator.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 6/src/com/scispike/decorator/GraphicalComponent.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 6/src/com/scispike/decorator/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 6/src/com/scispike/decorator/ScrollBarDecorator.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 6/src/com/scispike/decorator/TextField.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 7/No Work Files.rtf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 8/No Work Files.rtf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 9/src/com/scispike/creationalpatterns/shapes/Client.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 9/src/com/scispike/creationalpatterns/shapes/Line.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 9/src/com/scispike/creationalpatterns/shapes/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 9/src/com/scispike/creationalpatterns/shapes/Oval.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 9/src/com/scispike/creationalpatterns/shapes/Rectangle.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 9/src/com/scispike/creationalpatterns/shapes/Shape.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 9/src/com/scispike/creationalpatterns/singleton/Client.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Chapter 9/src/com/scispike/creationalpatterns/singleton/LogManager.java" afterPath="" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,7 +95,7 @@
         <entry file="file://$PROJECT_DIR$/src/ObserverPattern/Subject.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+              <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -45,6 +110,9 @@
         <option value="Interface" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="modificationStamps">
@@ -77,6 +145,7 @@
     <option name="width" value="1440" />
     <option name="height" value="797" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -379,7 +448,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -391,12 +460,12 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23076923" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -495,7 +564,7 @@
     <entry file="file://$PROJECT_DIR$/src/ObserverPattern/Subject.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
           <folding />
         </state>
       </provider>
